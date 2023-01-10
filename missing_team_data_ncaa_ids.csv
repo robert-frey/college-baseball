@@ -1,0 +1,70 @@
+school,conference,school_id,year,division,conference_id
+Bethune-Cookman,MEAC,61,2021,1,876
+Brown,Ivy League,80,2021,1,865
+Columbia,Ivy League,158,2021,1,865
+Cornell,Ivy League,167,2021,1,865
+Dartmouth,Ivy League,172,2021,1,865
+Harvard,Ivy League,275,2021,1,865
+La Salle,Atlantic 10,340,2022,1,820
+N.C. Central,MEAC,489,2022,1,876
+Princeton,Ivy League,554,2021,1,865
+UMES,MEAC,393,2021,1,876
+Yale,Ivy League,813,2021,1,865
+Cal Poly Pomona,CCAA,91,2021,2,828
+Cal St. Dom. Hills,CCAA,92,2021,2,828
+Cal St. East Bay,CCAA,98,2021,2,828
+Cal St. Monterey Bay,CCAA,30055,2021,2,828
+Cal St. San B'dino,CCAA,93,2021,2,828
+Cal St. San Marcos,CCAA,30198,2021,2,828
+Cal State LA,CCAA,100,2021,2,828
+Chico St.,CCAA,95,2021,2,828
+Concordia (NY),CACC,162,2021,2,28752
+Concordia (NY),CACC,162,2022,2,28752
+Eckerd,Sunshine State,208,2021,2,919
+Embry-Riddle (FL),Sunshine State,9680,2021,2,919
+LeMoyne-Owen,SIAC,350,2021,2,913
+Morehouse,SIAC,445,2021,2,913
+New York Tech,ECC,477,2021,2,11265
+New York Tech,ECC,477,2022,2,11265
+Oakland City,DII Independent,1278,2021,2,99010
+Oakland City,DII Independent,1278,2022,2,99010
+Ohio Valley,G-MAC,15207,2022,2,30182
+Paine,SIAC,535,2021,2,913
+Paine,SIAC,535,2022,2,913
+San Fran. St.,CCAA,628,2021,2,828
+Sonoma St.,CCAA,645,2021,2,828
+Stanislaus St.,CCAA,103,2021,2,828
+Stillman,SIAC,680,2017,2,913
+Stillman,SIAC,680,2018,2,913
+Baruch,CUNYAC,58,2021,3,834
+Becker,NECC,26107,2022,3,888
+Berea,USA South,30171,2020,3,842
+Berea,USA South,30171,2021,3,842
+Bowdoin,NESCAC,69,2021,3,12817
+Caltech,SCIAC,89,2021,3,910
+CCNY,CUNYAC,480,2021,3,834
+Claremont-M-S,SCIAC,142,2021,3,910
+Gallaudet,NEAC,245,2021,3,30071
+Iowa Wesleyan,SLIAC,30173,2022,3,12974
+John Jay,CUNYAC,321,2021,3,834
+Lehman,CUNYAC,279,2021,3,834
+Louisiana Col.,ASC,1182,2022,3,14825
+Maranatha Baptist,DIII Independent,1194,2020,3,99020
+Me.-Farmington,North Atlantic,379,2020,3,30026
+Me.-Presque Isle,North Atlantic,30040,2020,3,30026
+MIT,NEWMAC,398,2021,3,890
+NYU,UAA,479,2021,3,1471
+Occidental,SCIAC,516,2021,3,910
+Pine Manor,DIII Independent,544,2021,3,99020
+Pine Manor,DIII Independent,544,2022,3,99020
+Pomona-Pitzer,SCIAC,549,2021,3,910
+Principia,SLIAC,555,2021,3,12974
+Ripon,Midwest Conference,577,2020,3,23119
+SUNY Poly,NEAC,9500,2020,3,30071
+Swarthmore,Centennial,686,2021,3,9683
+Thomas (ME),North Atlantic,2758,2020,3,30026
+Tufts,NESCAC,717,2020,3,12817
+Wesley,Atlantic East,763,2022,3,30233
+Wesleyan (CT),NESCAC,764,2020,3,12817
+Western Conn. St.,Little East,770,2020,3,867
+Whittier,SCIAC,781,2021,3,910
